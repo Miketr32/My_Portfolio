@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'Weather App',
         projectDesc: 'Aplicacion que realiza la obtencion de datos del clima de diversas ciudades del mundo ',
         tags: ['JavaScript', 'React', 'CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/Miketr32/Weather-App',
+        demo: 'https://weatherapp-miguel.netlify.app/',
         image: two
     },
     {
