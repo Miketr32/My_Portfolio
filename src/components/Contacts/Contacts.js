@@ -16,9 +16,9 @@ import {
     FaInstagram,
     FaGitlab,
     FaMediumM,
+    FaWhatsapp
 } from 'react-icons/fa';
 import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
-import { FiPhone, FiAtSign } from 'react-icons/fi';
 import { HiOutlineLocationMarker } from 'react-icons/hi';
 
 import { ThemeContext } from '../../contexts/ThemeContext';
@@ -290,17 +290,7 @@ function Contacts() {
                                 {contactsData.email}
                             </p>
                         </a>
-                        <a
-                            href={`tel:${contactsData.phone}`}
-                            className='personal-details'
-                        >
-                            <div className={classes.detailsIcon}>
-                                <FiPhone />
-                            </div>
-                            <p style={{ color: theme.tertiary }}>
-                                {contactsData.phone}
-                            </p>
-                        </a>
+                        
                         <div className='personal-details'>
                             <div className={classes.detailsIcon}>
                                 <HiOutlineLocationMarker />
@@ -310,6 +300,17 @@ function Contacts() {
                             </p>
                         </div>
 
+                        <a
+                            href={`https://api.whatsapp.com/send?phone=543816318523`}
+                            className='personal-details'
+                        >
+                            <div className={classes.detailsIcon}>
+                                <FaWhatsapp />
+                            </div>
+                            <p style={{ color: theme.tertiary }}>
+                                {contactsData.phone}
+                            </p>
+                        </a>
                         <div className='socialmedia-icons'>
                             {socialsData.twitter && (
                                 <a

@@ -19,7 +19,7 @@ export const servicesData = [
     },
     {
         id: 3,
-        title: 'Base de datos',
+        title: 'Multitasking',
         icon: <BsClipboardData />
     },
     // {
@@ -35,12 +35,12 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Cloud Databases',
         icon: <BsCloudDownload  />
     },
     {
         id: 7,
-        title: 'Photography',
+        title: 'Vs Code',
         icon: <BsCommand />
     },
     // {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'Backend Development',
         icon: <BsGearWide />
     },
     // {
@@ -70,7 +70,7 @@ export const servicesData = [
     // },
     {
         id: 13,
-        title: 'Blog Posting',
+        title: 'Networks connections',
         icon: <BsWifi />
     },
 

@@ -1,5 +1,5 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
+import one from '../assets/svg/projects/1.png'
+import two from '../assets/svg/projects/clouds.png'
 import three from '../assets/svg/projects/three.svg'
 /*import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
@@ -29,7 +29,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Weather App',
+        projectName: 'Empty-Space',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['Django', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',

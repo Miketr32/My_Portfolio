@@ -12,7 +12,6 @@ import {
     FaTwitter,
     FaLinkedin,
     FaGithub,
-    FaYoutube,
     FaBlogger,
 } from 'react-icons/fa';
 
@@ -114,19 +113,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {socialsData.youtube && (
-                            <a
-                                href={socialsData.youtube}
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                                <FaYoutube
-                                    className='landing--social'
-                                    style={{ color: theme.secondary }}
-                                    aria-label='YouTube'
-                                />
-                            </a>
-                        )}
+
                         {socialsData.blogger && (
                             <a
                                 href={socialsData.blogger}
@@ -172,7 +159,7 @@ function Landing() {
                                     rel='noreferrer'
                                 >
                                     <Button className={classes.resumeBtn}>
-                                        Download CV
+                                        Descargar CV
                                     </Button>
                                 </a>
                             )}
@@ -183,7 +170,7 @@ function Landing() {
                                 duration={2000}
                             >
                                 <Button className={classes.contactBtn}>
-                                    Contact
+                                    Contact0
                                 </Button>
                             </NavLink>
                         </div>

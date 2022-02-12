@@ -4,5 +4,5 @@ export const socialsData = {
     instagram: 'https://www.instagram.com/mikecoronel93',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/Miguelcoronel',
-    youtube: 'https://youtube.com/'
+
 }

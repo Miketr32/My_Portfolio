@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Quien soy",
     description1: "Mi nombre es Miguel y soy programador Full-Stack. ",
-    description2: "Actualmente me encuentro en busqueda de mi primer oportunidad en el mundo IT. En mis tiempos libres me dedico a mis proyectos individuales, a practicar diseñando bots y desarrollar juegos simples en Unity. Y por supuesto a jugarlos 😁",
+    description2: "Apasionado por el desarrollo web y por la programacion, actualmente me encuentro desarrollando algunos proyectos con JavaScript, React, Node.Js y diseño web en HTML y CSS. Mis hobbies son programar, realizar diseños en entornos graficos como Photoshop y Corel, y en algunas ocasiones desarrollo de videojuegos con Unity Engine.",
     image: 2
 }
