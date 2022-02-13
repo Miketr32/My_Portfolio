@@ -30,10 +30,10 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Empty-Space',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectDesc: 'En desarrollo...',
+        tags: ['None', 'None'],
+        code: 'https://static.wixstatic.com/media/9932f1_c33450aa552f4a64b2b679b4df61cfbd~mv2.gif',
+        demo: 'https://static.wixstatic.com/media/9932f1_c33450aa552f4a64b2b679b4df61cfbd~mv2.gif',
         image: three
     },
     /*{
