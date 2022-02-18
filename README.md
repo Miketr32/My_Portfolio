@@ -1,61 +1,50 @@
 # Developer Portfolio 
 
-## Table of Contents :scroll:
-- [Sections](#sections-bookmark)
+## Tabla de contenidos :scroll:
+- [Secciones](#sections-bookmark)
 - [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Folder Structure](#folder-structure-open_file_folder)
-- [Packages Used](#packages-used-package)
-- [APIs Used](#apis-used-world_map)
-- [Fonts and Images](#fonts-and-images-performing_arts)
+- [Instalacion](#installation-arrow_down)
+- [Comenzando](#getting-started-dart)
+- [Estructura de las carpetas](#folder-structure-open_file_folder)
+- [Paquetes utilizados](#packages-used-package)
+- [APIs utilizadas](#apis-used-world_map)
+- [Fuentes e imagenes](#fonts-and-images-performing_arts)
 
 <br />
 
 
-# Sections :bookmark:
+# Secciones :bookmark:
 - HOME
 - ABOUT
 - RESUME
-    - EDUCATION
+    - EDUCACION
     - SKILLS
-    - EXPERIENCE
-    - PROJECTS 
-    - Achievements <br />
-- SERVICES 
-    - TESTIMONIALS <br />
-- BLOG
-- CONTACTS 
+    - EXPERIENCIA
+    - PROYECTOS 
+    - Certificados <br />
+- SERVICIOS 
+- CONTACTO 
 
 <br />
 
 # Demo :movie_camera:
 ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+## Mira la demo [aqui](https://dev-portfolio-template.netlify.app/).
 
 <br />
 
 
 
-# Installation :arrow_down:
-### You will need to download Git and Node to run this project
+# Instalacion :arrow_down:
+### Necesitas descargar Git y Node para correr este proyecto
 
 - [Git](https://git-scm.com/downloads)
 - [Node](https://nodejs.org/en/download/)
 
-## Also check [this](https://reactjs.org/docs/create-a-new-react-app.html) out if you are new to react.
-
-#### Make sure you have the latest version of both Git and Node on your computer.
-
-```
-node --version
-git --version
-```
-
 <br />
 
-# Getting Started :dart:
-### Fork and Clone the repo
+# Comenzando :dart:
+### Forkear y clonar el repo
 
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
@@ -166,16 +155,12 @@ yarn start
 │   │   ├── Skills
 │   │   │   ├── Skills.css
 │   │   │   └── Skills.js
-│   │   ├── Testimonials
-│   │   │   ├── Testimonials.css
-│   │   │   └── Testimonials.js
 │   │   └── index.js
 │   ├── contexts
 │   │   └── ThemeContext.js
 │   ├── data
 │   │   ├── aboutData.js
 │   │   ├── achievementData.js
-│   │   ├── blogData.js
 │   │   ├── contactsData.js
 │   │   ├── educationData.js
 │   │   ├── experienceData.js
@@ -184,14 +169,10 @@ yarn start
 │   │   ├── servicesData.js
 │   │   ├── skillsData.js
 │   │   ├── socialsData.js
-│   │   ├── testimonialsData.js
 │   │   └── themeData.js
 │   ├── index.css
 │   ├── index.js
 │   ├── pages
-│   │   ├── Blog
-│   │   │   ├── BlogPage.css
-│   │   │   └── BlogPage.js
 │   │   ├── Main
 │   │   │   └── Main.js
 │   │   ├── Project
@@ -210,7 +191,7 @@ yarn start
 
 <br />
 
-# Packages Used :package:
+# Paquetes usados :package:
 
 | Client Side Packages  |
 | :-------------: |
@@ -230,23 +211,22 @@ yarn start
 
 <br />
 
-# APIs Used :world_map:
+# APIs usadas :world_map:
 - [SheetDB](https://sheetdb.io/)
-
 
 <br />
 
-# Fonts and Images :performing_arts:
+# Fuentes e imagenes :performing_arts:
 
-## Illustrations
+## Ilustraciones
 - [Icons8](https://icons8.com/illustrations/styles)
 - [SVG Porn](https://svgporn.com/)
 
-## Icons
+## Iconos
 - [Material Icons](https://material-ui.com/components/material-icons/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-## Fonts
+## Fuentes
 - [Poppins](https://fonts.google.com/specimen/Poppins)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Raleway](https://fonts.google.com/specimen/Raleway)
