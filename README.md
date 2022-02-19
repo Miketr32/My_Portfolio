@@ -16,7 +16,7 @@
 # Secciones :bookmark:
 - HOME
 - ABOUT
-- RESUME
+- CV
     - EDUCACION
     - SKILLS
     - EXPERIENCIA
@@ -46,31 +46,29 @@
 # Comenzando :dart:
 ### Forkear y clonar el repo
 
-#### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
 ```
 git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
 cd developer-portfolio
 ```
-### Install packages from the root directory
+### Instalar paquetes desde el directorio root
 ```
 npm install
 ```
-#### or
+#### o
 ```
 yarn install
 ```
-### Start the development server
+### Iniciar el servidor
 ```
 npm start
 ```
-#### or
+#### o
 ```
 yarn start
 ```
 <br />
 
-# Folder Structure :open_file_folder:
+# Estructura de las carpetas :open_file_folder:
 
 ```bash
 ├── LICENSE   
@@ -101,8 +99,7 @@ yarn start
 │   │       ├── experience
 │   │       ├── projects
 │   │       ├── skills
-│   │       ├── social
-│   │       └── testimonials
+│   │       └── social
 │   ├── components
 │   │   ├── About
 │   │   │   ├── About.css
@@ -114,12 +111,6 @@ yarn start
 │   │   ├── BackToTop
 │   │   │   ├── BackToTop.css
 │   │   │   └── BackToTop.js
-│   │   ├── Blog
-│   │   │   ├── Blog.css
-│   │   │   ├── Blog.js
-│   │   │   └── SingleBlog
-│   │   │       ├── SingleBlog.css
-│   │   │       └── SingleBlog.js
 │   │   ├── Contacts
 │   │   │   ├── Contacts.css
 │   │   │   └── Contacts.js
