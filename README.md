@@ -182,7 +182,7 @@ yarn start
 
 <br />
 
-# Paquetes usados :package:
+# Paquetes utilizados :package:
 
 | Client Side Packages  |
 | :-------------: |
@@ -202,7 +202,7 @@ yarn start
 
 <br />
 
-# APIs usadas :world_map:
+# APIs utilizadas :world_map:
 - [SheetDB](https://sheetdb.io/)
 
 <br />
