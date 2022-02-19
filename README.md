@@ -6,9 +6,9 @@
 - [Instalacion](#instalacion-arrow_down)
 - [Comenzando](#comenzando-dart)
 - [Estructura de las carpetas](#estructura-de-las-carpetas-open_file_folder)
-- [Paquetes utilizados](#packages-used-package)
-- [APIs utilizadas](#apis-used-world_map)
-- [Fuentes e imagenes](#fonts-and-images-performing_arts)
+- [Paquetes utilizados](#paquetes-utilizados-package)
+- [APIs utilizadas](#apis-utilizadas-world_map)
+- [Fuentes e imagenes](#fuentes-e-imagenes-performing_arts)
 
 <br />
 
