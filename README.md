@@ -1,7 +1,7 @@
 # Developer Portfolio 
 
 ## Tabla de contenidos :scroll:
-- [Secciones](#sections-bookmark)
+- [Secciones](#secciones-bookmark)
 - [Demo](#demo-movie_camera)
 - [Instalacion](#installation-arrow_down)
 - [Comenzando](#getting-started-dart)
